@@ -1,2 +1,6 @@
 # Elsimulator
-Elsimulator för att visualisera sveriges elsystem
+Det här programmet är utvecklat av Anton Bengtsson och Måns Andreasson i kursen Projekt i industriell elektroteknik och automation (EIEN30) under hösten 2022. Syftet med programmet är att visualisera data lättförståeligt för folk i allmänhet, som inte nödvändigtvis är insatta i hur elsystemet fungerar och på så vis förbättra deras förståelse för elsystemet.
+
+Programmet använder en stor mängd data relevant för elsystemet under åren 2018-2022, denna datan kan enkelt uppdateras i framtiden. Programmet kan plotta olika typer av grafer med den här datan som kan studeras i programmet men även exporteras.Det finns också möjlighet att skapa olika typer av animationer som kan utforskas i programmet eller exporteras som GIF-filer.
+
+I simulatordelen kan priskurvor för elsystemet plottas. Dessa kan plottas för alla elområdena. På kartan ändras pilar live, för att visualisera hur ansträngt olika delar av elnätet är vid olika tidpunkter. Det går även att manuellt ändra parametrar för att se hur priskurvan ändras, men man bör komma ihåg att elsystemet är väldigt komplext, och den här simulatorn är en grov förenkling. Ifall det är några funktionaliteter eller buggar du som användare vill se lösta så kan du antingen maila oss eller ladda ner källkoden och ändra hur du vill. Källkoden finns länkad i startmenyn i programmet.
